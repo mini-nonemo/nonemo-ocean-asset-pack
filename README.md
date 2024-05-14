@@ -1,8 +1,8 @@
-# Platformer Asset Pack - Placeholder - [itch.io](https://nonemo.itch.io/ocean-jump-asset-pack)
+# Platformer Asset Pack - Ocean Jump - [itch.io](https://nonemo.itch.io/ocean-jump-asset-pack)
 
 ![Banner](presentation/Itch%20-%20Banner.png)
 
-_Description_
+Dive into the depths with our Ocean Jump Asset Pack! Explore vibrant underwater worlds with a friendly shrimp companion and leap across sponge platforms. Whether you're dodging obstacles or searching for hidden treasures, this pack adds a splash of fun to your jumper game. Dive in now and let the underwater adventure begin!
 
 # License
 
